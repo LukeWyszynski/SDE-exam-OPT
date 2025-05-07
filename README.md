@@ -2,11 +2,11 @@
 Written Tests for Software Engineer -- Optimum, Java
 
 1. Web Application Development 
-- Implement a web application using Java, Spring Boot, and Oracle SQL to
+  - Implement a web application using Java, Spring Boot, and Oracle SQL to
 efficiently read 1 million records from an Oracle table.
 
 2. WebSocket Server and Client 
-- Develop a WebSocket server and client to facilitate real-time bidirectional
+  - Develop a WebSocket server and client to facilitate real-time bidirectional
 communication.
 
 3. PL/SQL Procedure and Scheduler Job 
